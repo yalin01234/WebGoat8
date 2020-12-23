@@ -16,4 +16,6 @@ not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, B
 
 Getting Source ==============
 
+Test 23/12 18:35
+
 Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repository for free software projects.
