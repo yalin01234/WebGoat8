@@ -85,7 +85,7 @@ WebWolf will be located at: http://www.webwolf.local/WebWolf
 
 **Important**: the current directory on your host will be mapped into the container for keeping state.
 
-#Test Danit 3/12 09:53
+#Test 01/12 11:13
 ## 3. Run from the sources
 
 ### Prerequisites:
